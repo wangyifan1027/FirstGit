@@ -3,3 +3,4 @@ add 123.
 some changes.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
+Fast forward
